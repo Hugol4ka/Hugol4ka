@@ -5,7 +5,8 @@
 - 🔭 Je travaille actuellement sur le développement **Agentic AI**
 - 🌱 J'apprends et je me perfectionne constamment sur la technologie et ses différents langages.
 
-- 📫 Pour me joindre :
+
+📫 Pour me joindre :
 - **Linkedin: https://www.linkedin.com/in/hugo-lacassagne/**
 - **Mail: hugolaca12300@gmail.com**
 
@@ -35,10 +36,9 @@ Voici les langages, outils et environnements que j'utilise au quotidien :
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugol4ka&show_icons=true&theme=tokyonight&count_private=true" alt="Mes stats GitHub" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=tokyonight" alt="Mes langages" height="190px" />
+  <img src="https://github-readme-stats.vercel.com/api?username=Hugol4ka&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_ICI&theme=tokyonight" alt="Mon streak de commits" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Hugol4ka&layout=compact&theme=tokyonight" alt="Top Langages" />
 </p>
