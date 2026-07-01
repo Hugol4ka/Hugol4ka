@@ -36,8 +36,8 @@ Voici les langages, outils et environnements que j'utilise au quotidien :
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugol4ka&show_icons=true&theme=tokyonight&count_private=true" alt="Mes stats GitHub" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugol4ka&layout=compact&theme=tokyonight" alt="Mes langages" height="190px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hugol4ka&show_icons=true&theme=tokyonight&count_private=true" alt="Mes stats GitHub" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hugol4ka&layout=compact&theme=tokyonight" alt="Mes langages" height="195" />
 </p>
 
 <p align="center">
