@@ -3,7 +3,7 @@
 ### 🚀 Développeur curieux & passioné !
 
 - 🔭 Je travaille actuellement sur le développement **Agentic AI**
-- 🌱 J'apprends et je me perfectionne constamment sur la technologie et ses différents langages.
+- 🌱 J'apprends et je me perfectionne constamment sur les nouvelles technologies et leurs différents langages.
 
 
 📫 Pour me joindre :
